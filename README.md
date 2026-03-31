@@ -20,3 +20,5 @@
 <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/55716d18-0e9b-4dca-bb3e-511aed79fc21" />
 <img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/63fa0d26-8bc6-4369-8ddf-21f6639941a1" />
 </div>
+
+![snake gif](https://github.com/Ana-mafecchio/Ana-mafecchio/blob/output/github-snake-dark.svg)
