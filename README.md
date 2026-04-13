@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77BD3&width=435&lines=Ea%C3%AD+pessoal%3F+Podem+me+chamar+de+Ana!;Tenho+18+anos+e+estou+cursando+T.I.+;Ea%C3%AD+pessoal%3F+Podem+me+chamar+de+Ana!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F77BD3&width=435&lines=Ea%C3%AD+pessoal%3F+Podem+me+chamar+de+Ana!;Tenho+19+anos+e+estou+cursando+T.I.+;Ea%C3%AD+pessoal%3F+Podem+me+chamar+de+Ana!" alt="Typing SVG" /></a>
 <br>
 
 
