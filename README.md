@@ -12,7 +12,7 @@
 </div>
 
 <h1>Tecnologias e ferramentas</h1>
-<div align="">
+<div>
 <img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/d0b9078a-e542-48a2-9faa-df0017f3a2fe" />
 <img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/512e8d34-6f60-46ed-b1a4-bcc0bdee3a65" />
 <img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/2abef087-3785-4c09-8fe0-d6e6ddd3abde" />
