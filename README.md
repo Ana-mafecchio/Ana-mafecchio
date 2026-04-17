@@ -13,12 +13,12 @@
 
 <h1>Tecnologias e ferramentas</h1>
 <div align="">
-<img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/d0b9078a-e542-48a2-9faa-df0017f3a2fe" />
-<img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/512e8d34-6f60-46ed-b1a4-bcc0bdee3a65" />
-<img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/2abef087-3785-4c09-8fe0-d6e6ddd3abde" />
-<img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/c4f569b3-e6cd-4a90-ad4a-f73552956a0c" />
-<img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/55716d18-0e9b-4dca-bb3e-511aed79fc21" />
-<img width="80" height="80" alt="Image" src="https://github.com/user-attachments/assets/63fa0d26-8bc6-4369-8ddf-21f6639941a1" />
+<img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/d0b9078a-e542-48a2-9faa-df0017f3a2fe" />
+<img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/512e8d34-6f60-46ed-b1a4-bcc0bdee3a65" />
+<img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/2abef087-3785-4c09-8fe0-d6e6ddd3abde" />
+<img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/c4f569b3-e6cd-4a90-ad4a-f73552956a0c" />
+<img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/55716d18-0e9b-4dca-bb3e-511aed79fc21" />
+<img width="80" height="80" alt="Image" align="left" src="https://github.com/user-attachments/assets/63fa0d26-8bc6-4369-8ddf-21f6639941a1" />
 </div>
 
 ![snake gif](https://github.com/Ana-mafecchio/Ana-mafecchio/blob/output/github-snake-dark.svg)
